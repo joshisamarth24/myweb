@@ -1,0 +1,30 @@
+body{
+  margin: 0px;
+}
+.top{
+  background-color: #E4F9F5;
+  border-style: solid;
+  border-width: 10px;
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+}
+h1{
+   margin: 0px;
+}
+.middle{
+  background-color: red;
+  border-style: solid;
+  border-width: 20px;
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+}
+.bottom{
+  background-color: blue;
+  border-style: solid;
+  border-width: 10px;
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
+}
